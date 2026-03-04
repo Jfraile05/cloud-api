@@ -1,7 +1,3 @@
-Here is a **version matching the style and energy of your Pokémon project README**, but tailored to your **AWS EC2 REST API project**. This style works well on GitHub and for recruiters.
-
----
-
 # ☁️ AWS EC2 REST API Service
 
 A lightweight **Python cloud API deployed on AWS EC2** and managed with Linux service infrastructure.
